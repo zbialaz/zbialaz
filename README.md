@@ -3,5 +3,9 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-bialas-610730235/)
 
-![Eduardo Bialas's GitHub stats](https://github-readme-stats.vercel.app/api?username=zbialaz&theme=react&hide_border=true&show_icons=true&hide=contribs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zbialaz&theme=react&hide_border=true&layout=compact)](https://github.com/zbialaz/github-readme-stats)
+<div>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zbialaz&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_borders=true&hide=contribs&hide_border=true"/><img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zbialaz&compact&langs_count=16&theme=react&hide_border=true"/>
+
+</div>
+
