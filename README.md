@@ -5,7 +5,7 @@
 🛠️ Tech Stack
 
 - **Languages**: Python, SQL  
-- **Tools**: Git, GitHub, VS Code, Jupyter  
+- **Tools**: Git, GitHub, VS Code, Jupyter, Databricks
 - **Cloud & Data**: Power BI, Pandas, Scikit-learn, PySpark
 
 📫 Get in Touch
