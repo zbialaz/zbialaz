@@ -10,7 +10,7 @@
 
 📫 Get in Touch
 
-- https://www.linkedin.com/in/eduardobialas/
+- Linkedin: https://www.linkedin.com/in/eduardobialas/
 - Email: eduardobialas74@gmail.com
 
 <br>
