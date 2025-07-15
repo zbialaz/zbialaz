@@ -1,5 +1,5 @@
 ### Hi There, I'm Eduardo Bialas! 👋
-🌱 I’m currently learning Machine Learning and Data Engineering
+## 🌱 I’m currently learning Machine Learning and Data Engineering
 
 
 ## 🛠️ Tech Stack
@@ -9,15 +9,10 @@
 - **Cloud & Data**: Azure, Power BI, Pandas, Scikit-learn  
 - **Other**: HMS, Active Directory, GitHub Actions
 
-
 ## 📫 Get in Touch
 
 - https: https://www.linkedin.com/in/eduardobialas/
 - Email: eduardobialas74@gmail.com
-
-  
-![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zbialaz&show_icons=true&theme=defaultts.vercel.app/api/top-langs/?username=zbialaz&layout=compact
-
 
 <br>
 
