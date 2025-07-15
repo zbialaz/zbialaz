@@ -4,7 +4,7 @@
 
 🛠️ Tech Stack
 
-- **Languages**: Python, Bash, SQL  
+- **Languages**: Python, SQL  
 - **Tools**: Git, GitHub, VS Code, Jupyter  
 - **Cloud & Data**: Azure, Power BI, Pandas, Scikit-learn  
 
