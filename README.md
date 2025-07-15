@@ -7,11 +7,10 @@
 - **Languages**: Python, Bash, SQL  
 - **Tools**: Git, GitHub, VS Code, Jupyter  
 - **Cloud & Data**: Azure, Power BI, Pandas, Scikit-learn  
-- **Other**: HMS, Active Directory, GitHub Actions
 
 📫 Get in Touch
 
-- https: https://www.linkedin.com/in/eduardobialas/
+- https://www.linkedin.com/in/eduardobialas/
 - Email: eduardobialas74@gmail.com
 
 <br>
