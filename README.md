@@ -6,7 +6,7 @@
 
 - **Languages**: Python, SQL  
 - **Tools**: Git, GitHub, VS Code, Jupyter  
-- **Cloud & Data**: Azure, Power BI, Pandas, Scikit-learn  
+- **Cloud & Data**: Power BI, Pandas, Scikit-learn, PySpark
 
 📫 Get in Touch
 
