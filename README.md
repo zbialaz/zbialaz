@@ -34,20 +34,4 @@
 ![image](	https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apache_spark.png)
 
 -->
-
-<img src="https://raw.githubusercontentn1991/profile-technology-icons/refs/heads/main/icons/github.png
-https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png
-https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png
-https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jira.png
-https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png
-https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png
-https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png
-https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png
-https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png
-https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png
-https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/databricks.png
-https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apache_spark.png
-
-
 </div>
-
