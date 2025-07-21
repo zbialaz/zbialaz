@@ -19,6 +19,7 @@
 
 <div>
 
+<!--
 ![image](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png)
 ![image](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png)
 ![image](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png)
@@ -31,6 +32,11 @@
 ![image](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png)
 ![image](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/databricks.png)
 ![image](	https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apache_spark.png)
+
+-->
+
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" width//raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png"https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png"https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jira.p="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postmansrc="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_codesrc="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width//raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" width//raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" width//raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png"https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/datg
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apache_spark.png" width
 
 </div>
 
