@@ -19,8 +19,6 @@
 
 <div>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zbialaz&layout=compact&langs_count=16&theme=react&hide_border=true">
-
 
 <img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/52d3252b-f2ba-45d1-bbcf-415c0febd5f0" />
 
