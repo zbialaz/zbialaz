@@ -20,16 +20,17 @@
 <div>
 
 ![image](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png)
-![image](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png)
-![image]({})
-![image]({})
-![image]({})
-![image]({})
-![image]({})
-![image]({})
-![image]({})
-![image]({})
-![image]({})
+![image](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png)
+![image](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png)
+![image](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jira.pn})
+![image](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png)
+![image](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png)
+![image](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png)
+![image](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png)
+![image](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png)
+![image](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png)
+![image](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/databricks.png)
+![image](	https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apache_spark.png)
 
 </div>
 
